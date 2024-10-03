@@ -36,7 +36,7 @@ The `compute_metrics` function evaluates model performance by calculating the Wo
 ### Example Image
 
 Here’s the image we are trying to generate a caption for:
-![PokemonPic](PokemonPic)
+![PokemonPic](PokemonPic.png)
 
 
 ## Part 2: Impact of Quantity on ML Models
