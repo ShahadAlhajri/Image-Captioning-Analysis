@@ -33,6 +33,12 @@ The `compute_metrics` function evaluates model performance by calculating the Wo
 4. **Calculating Word Error Rate**: Computes the WER to assess model accuracy.
 5. **Function Return**: Returns a dictionary with the WER score.
 
+### Example Image
+
+Here’s the image we are trying to generate a caption for:
+![PokemonPic](PokemonPic)
+
+
 ## Part 2: Impact of Quantity on ML Models
 
 ### Generated Captions Analysis
